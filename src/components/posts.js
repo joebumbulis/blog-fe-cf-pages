@@ -7,6 +7,7 @@ const Posts = () => {
   useEffect(() => {
     const getPosts = async () => {
       const resp = await fetch('/api/posts');
+      console.log(resp);
       const postsResp = await resp.json();
       setPosts(postsResp);
     };
