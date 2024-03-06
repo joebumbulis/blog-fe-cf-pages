@@ -1,3 +1,7 @@
+# Project Built for Cloduflare Pages
+This project is built using these [cf documents](https://developers.cloudflare.com/pages/tutorials/build-an-api-with-pages-functions/).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
