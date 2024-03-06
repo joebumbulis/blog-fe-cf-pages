@@ -1,4 +1,4 @@
-# Project Built for ClodCloudflareuflare Pages
+# Project Built for Cloudflare Pages
 This project is built using these [cf documents](https://developers.cloudflare.com/pages/tutorials/build-an-api-with-pages-functions/).
 
 
