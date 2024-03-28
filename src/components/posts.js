@@ -7,7 +7,7 @@ const Posts = () => {
   useEffect(() => {
     const getPosts = async () => {
       const resp = await fetch('/api/posts');
-      console.log(resp);
+      // console.log(resp);
       const postsResp = await resp.json();
       setPosts(postsResp);
     };
@@ -17,7 +17,7 @@ const Posts = () => {
 
   return (
     <div>
-      <h1>Posts</h1>
+      <h1>Posts - PREVIEW DEPLOYMENT</h1>
       {posts.map(post => (
         <div key={post.id}>
           <h2>
