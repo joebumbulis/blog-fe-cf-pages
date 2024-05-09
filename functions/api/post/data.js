@@ -11,6 +11,12 @@ const posts = [
     text: "It's my second blog post! I'm still writing and publishing using Cloudflare Workers + Pages :)",
     published_at: new Date('2020-10-26'),
   },
+  {
+    id: 3,
+    title: 'Staging',
+    text: "Showcasing a Staging Environment",
+    published_at: new Date('2024-05-09'),
+  },
 ];
 
 export default posts
