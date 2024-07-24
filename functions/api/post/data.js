@@ -14,7 +14,7 @@ const posts = [
   {
     id: 3,
     title: 'Staging',
-    text: "Showcasing a Staging Environment",
+    text: "Showcasing a Staging Environment And Updating",
     published_at: new Date('2024-05-09'),
   },
 ];
